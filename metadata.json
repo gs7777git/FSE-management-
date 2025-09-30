@@ -1,0 +1,5 @@
+{
+  "name": "Field Visit Tracker",
+  "description": "An application for field employees to log client visits, capturing location, time, and visit duration to generate daily reports.",
+  "requestFramePermissions": []
+}
